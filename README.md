@@ -1,5 +1,5 @@
-1. Título y Descripción
-Análisis de Churn y Estrategia de Retención: Sector Telco
+# 1. Título y Descripción
+Análisis de Desercion y Estrategia de Retención: Challenge Alura Latam Telecom X Parte 2
 Este proyecto utiliza Machine Learning para predecir la deserción de clientes (Churn) e identificar los factores financieros y contractuales que impactan la permanencia de los usuarios de alto valor.
 
 2. Contexto del Problema
