@@ -1,3 +1,14 @@
+## 📑 Índice
+1. [Título y Descripción](#Título y Descripción)
+2. [Objetivo](#objetivo)
+3. [Principales Hallazgos](#principales-hallazgos)
+4. [Tratamiento de Datos](#tratamiento-de-datos)
+5. [Visualizaciones Clave](#visualizaciones-clave)
+6. [Recomendaciones Estratégicas](#recomendaciones-estratégicas)
+7. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+8. [Autor](#autor)
+
+
 # 1. Título y Descripción
 ## Análisis de Desercion y Estrategia de Retención: Challenge Alura Latam Telecom X Parte 2
 Este proyecto utiliza Machine Learning para predecir la deserción de clientes (Churn) e identificar los factores financieros y contractuales que impactan la permanencia de los usuarios de alto valor.
