@@ -48,4 +48,7 @@ Alerta Temprana: Implementar el modelo en el sistema de atención al cliente par
 
 Revisión de Fibra Óptica: Investigar la calidad del servicio técnico en zonas de alta deserción con fibra, ya que es el servicio más costoso y volátil.
 
-
+# 7. Autor
+Lisber Stredel
+Contador Auditor y Proximo Data Science
+https://www.linkedin.com/in/lisber-stredel-nu%C3%B1ez-67975715/
