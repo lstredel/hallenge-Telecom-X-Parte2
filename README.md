@@ -14,23 +14,34 @@ Imbalanced-learn (SMOTE para balanceo de datos)
 
 Matplotlib & Seaborn (Visualización de datos)
 
-# 🏆 Conclusiones del Proyecto (Para tu reporte final)
-Estas conclusiones resumen toda nuestra conversación y tus descubrimientos:
+# 4.🏆 Conclusiones del Proyecto 
 
-# 📊 Hallazgos Clave
+## 📊 Hallazgos Clave
 El "Cáncer" del Contrato Mensual: El 88.6% de las bajas totales provienen de clientes con contrato Month-to-month. Este grupo tiene un riesgo de fuga del 41.3%, frente a solo el 2.8% en contratos de dos años.
+<img width="596" height="452" alt="image" src="https://github.com/user-attachments/assets/a8a06346-5d89-4c4d-be44-8a699fe5797d" />
+
 
 El Peso del Ticket Alto: Los clientes que contratan servicios de Streaming (TV, Películas o Ambas) y Fibra Óptica generan los cargos mensuales más altos, pero son los más propensos a irse si no están vinculados a un contrato de permanencia.
+<img width="592" height="459" alt="image" src="https://github.com/user-attachments/assets/fa8d4f15-2fe7-400d-9e11-d4eddc5290c4" />
 
-Impacto Financiero: La deserción no es solo un número de clientes; proyectando las pérdidas de los clientes fugados a un año, la empresa pierde un ingreso recurrente de $[Insertar tu cifra aquí], lo que justifica cualquier inversión en campañas de retención.
+
+Impacto Financiero: La deserción no es solo un número de clientes; proyectando las pérdidas de los clientes fugados a un año, la empresa perdio un ingreso recurrente de $ 528.374, lo que justifica cualquier inversión en campañas de retención.
+
+<img width="502" height="427" alt="image" src="https://github.com/user-attachments/assets/6bf51fa8-8d17-4dac-85bf-67c14691655c" />
+
+A través de la segmentación por niveles de probabilidad, identificamos la existencia de riesgos de perdida financiera anualizada de $ 17.501,14, que puede ser rescatada mediante intervenciones preventivas antes de que su probabilidad de fuga aumente.
+<img width="504" height="311" alt="image" src="https://github.com/user-attachments/assets/a170ce1c-564d-4894-91f3-8a3f742a4732" />
 
 # 🤖 Desempeño del Modelo
 Se seleccionó la Regresión Logística por su alto Recall (0.72). En este caso de negocio, es preferible tener algunos "falsos positivos" que dejar escapar a un cliente que realmente se va a fugar.
+<img width="252" height="184" alt="image" src="https://github.com/user-attachments/assets/4f162207-f317-4b83-b779-db110d697a52" />
 
 Las variables con mayor peso predictivo fueron: Cargos Mensuales (impulsor de fuga) y Contrato de 2 años (retenedor principal).
+<img width="555" height="351" alt="image" src="https://github.com/user-attachments/assets/03a24eef-dd56-41f4-92aa-d43eadcdf931" />
 
 # 💡 Recomendaciones Estratégicas
 Conversión de Contrato: Crear una oferta "Premium Anual" dirigida a usuarios de streaming que actualmente están en plan mensual, ofreciendo un descuento por permanencia.
+Al analizar las variables, observamos que los contratos de Uno y Dos años actúan como potentes reductores de riesgo en comparación con el plan mensual, siendo el contrato de dos años el que presenta la mayor fuerza de retención."
 
 Alerta Temprana: Implementar el modelo en el sistema de atención al cliente para que los agentes reciban una alerta cuando un cliente de "alto riesgo" llame, permitiéndoles ofrecer incentivos de retención proactivos.
 
