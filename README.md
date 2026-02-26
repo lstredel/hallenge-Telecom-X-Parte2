@@ -31,7 +31,7 @@ Impacto Financiero: La deserción no es solo un número de clientes; proyectando
 A través de la segmentación por niveles de probabilidad, identificamos la existencia de riesgos de perdida financiera anualizada de $ 17.501,14, que puede ser rescatada mediante intervenciones preventivas antes de que su probabilidad de fuga aumente.
 <img width="504" height="311" alt="image" src="https://github.com/user-attachments/assets/a170ce1c-564d-4894-91f3-8a3f742a4732" />
 
-# 🤖 Desempeño del Modelo
+# 5. 🤖 Desempeño del Modelo
 Se seleccionó la Regresión Logística por su alto Recall (0.72). En este caso de negocio, es preferible tener algunos "falsos positivos" que dejar escapar a un cliente que realmente se va a fugar.
 
 <img width="252" height="184" alt="image" src="https://github.com/user-attachments/assets/4f162207-f317-4b83-b779-db110d697a52" />
@@ -39,7 +39,7 @@ Se seleccionó la Regresión Logística por su alto Recall (0.72). En este caso 
 Las variables con mayor peso predictivo fueron: Cargos Mensuales (impulsor de fuga) y Contrato de 2 años (retenedor principal).
 <img width="555" height="351" alt="image" src="https://github.com/user-attachments/assets/03a24eef-dd56-41f4-92aa-d43eadcdf931" />
 
-# 💡 Recomendaciones Estratégicas
+# 6. 💡 Recomendaciones Estratégicas
 Conversión de Contrato: Crear una oferta "Premium Anual" dirigida a usuarios de streaming que actualmente están en plan mensual, ofreciendo un descuento por permanencia.
 
 Al analizar las variables, observamos que los contratos de Uno y Dos años actúan como potentes reductores de riesgo en comparación con el plan mensual, siendo el contrato de dos años el que presenta la mayor fuerza de retención."
