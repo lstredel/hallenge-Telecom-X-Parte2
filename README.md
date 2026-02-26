@@ -21,6 +21,9 @@ El "Cáncer" del Contrato Mensual: El 88.6% de las bajas totales provienen de cl
 
 <img width="913" height="344" alt="image" src="https://github.com/user-attachments/assets/719d53fc-1edf-42a6-9a9b-383055f24138" />
 
+Al analizar los 100 clientes que representaban la mayor pérdida de ingresos, observamos que el 43% poseía un contrato mensual. Esto resalta la vulnerabilidad de la facturación de alto valor cuando no existen barreras de salida o incentivos de permanencia adecuados.
+<img width="414" height="346" alt="image" src="https://github.com/user-attachments/assets/d4f62890-eb7a-43db-b228-13d723a3a760" />
+
 El Peso del Ticket Alto: Los clientes que contratan servicios de Streaming (TV, Películas o Ambas) y Fibra Óptica generan los cargos mensuales más altos, pero son los más propensos a irse si no están vinculados a un contrato de permanencia.
 <img width="592" height="459" alt="image" src="https://github.com/user-attachments/assets/fa8d4f15-2fe7-400d-9e11-d4eddc5290c4" />
 
