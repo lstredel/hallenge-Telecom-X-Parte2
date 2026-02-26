@@ -19,6 +19,7 @@ Matplotlib & Seaborn (Visualización de datos)
 ## 📊 Hallazgos Clave
 El "Cáncer" del Contrato Mensual: El 88.6% de las bajas totales provienen de clientes con contrato Month-to-month. Este grupo tiene un riesgo de fuga del 41.3%, frente a solo el 2.8% en contratos de dos años.
 <img width="596" height="452" alt="image" src="https://github.com/user-attachments/assets/a8a06346-5d89-4c4d-be44-8a699fe5797d" />
+<img width="512" height="292" alt="image" src="https://github.com/user-attachments/assets/288be5c2-0176-4b03-a6f5-a820cdbe0f54" />
 
 
 El Peso del Ticket Alto: Los clientes que contratan servicios de Streaming (TV, Películas o Ambas) y Fibra Óptica generan los cargos mensuales más altos, pero son los más propensos a irse si no están vinculados a un contrato de permanencia.
