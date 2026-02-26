@@ -34,6 +34,7 @@ A través de la segmentación por niveles de probabilidad, identificamos la exis
 
 # 🤖 Desempeño del Modelo
 Se seleccionó la Regresión Logística por su alto Recall (0.72). En este caso de negocio, es preferible tener algunos "falsos positivos" que dejar escapar a un cliente que realmente se va a fugar.
+
 <img width="252" height="184" alt="image" src="https://github.com/user-attachments/assets/4f162207-f317-4b83-b779-db110d697a52" />
 
 Las variables con mayor peso predictivo fueron: Cargos Mensuales (impulsor de fuga) y Contrato de 2 años (retenedor principal).
@@ -41,6 +42,7 @@ Las variables con mayor peso predictivo fueron: Cargos Mensuales (impulsor de fu
 
 # 💡 Recomendaciones Estratégicas
 Conversión de Contrato: Crear una oferta "Premium Anual" dirigida a usuarios de streaming que actualmente están en plan mensual, ofreciendo un descuento por permanencia.
+
 Al analizar las variables, observamos que los contratos de Uno y Dos años actúan como potentes reductores de riesgo en comparación con el plan mensual, siendo el contrato de dos años el que presenta la mayor fuerza de retención."
 
 Alerta Temprana: Implementar el modelo en el sistema de atención al cliente para que los agentes reciban una alerta cuando un cliente de "alto riesgo" llame, permitiéndoles ofrecer incentivos de retención proactivos.
